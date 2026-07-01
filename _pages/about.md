@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I design **ground-up LLM architectures** and multi-agent systems for high-stakes, unstructured data. Bridging 30 years of systems engineering with deep AI research, I build **verification-first platforms** that I rigorously validate across diverse regulated domains, driving **novel and uncorrelated alpha** in live quantitative finance, and powering **interdisciplinary, human-AI creative ecosystems**.
+I design **ground-up LLM architectures** and multi-agent systems for high-stakes, unstructured data. Bridging foundational systems engineering with deep AI research, I build **verification-first platforms** that I rigorously validate across diverse regulated domains, driving **novel and uncorrelated alpha** in live quantitative finance, and powering **interdisciplinary, human-AI creative ecosystems**.
 
 My approach integrates a unique combination of leadership, systems architecture, and deep AI expertise. My skills in cutting-edge AI are validated through ongoing consulting on **Temporal Knowledge Graphs, Causal AI, and Neuro-Symbolic architectures** for major EU projects.
 
