@@ -26,7 +26,7 @@ latest_posts:
 
 I design **ground-up LLM architectures** and multi-agent systems for high-stakes, unstructured data. Bridging 30 years of systems engineering with deep AI research, I build **verification-first platforms** that I rigorously validate across diverse regulated domains, driving **novel and uncorrelated alpha** in live quantitative finance, and powering **interdisciplinary, human-AI creative ecosystems**.
 
-My approach integrates a unique combination of leadership, systems architecture, and deep AI expertise. My skills in cutting-edge AI are validated through ongoing consulting on **Large Language Model** (**LLM**) **and Knowledge Graph architecture** for major EU projects.
+My approach integrates a unique combination of leadership, systems architecture, and deep AI expertise. My skills in cutting-edge AI are validated through ongoing consulting on **Temporal Knowledge Graphs, Causal AI, and Neuro-Symbolic architectures** for major EU projects.
 
 My **large-scale leadership** is grounded in a 25-year track record of securing competitive funding, culminating in my role as Scientific Coordinator for multi-million-euro **flagship EU research programs** that earned an **'Excellent' rating**. This work is all built on a deep architectural foundation of **30 years of hands-on systems architecture** and a distinguished academic career, including a **Marie Skłodowska-Curie Global Fellowship**. As a leader in my field, I have also **authored novel curricula** in AI and Signal Processing at the graduate level and **mentored students to win prestigious awards, including the Fulbright**.
 
