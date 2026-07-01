@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<span style='color: #069AF3;'>AI Lead Researcher & Systems Architect | Deep Learning, LLMs, & Alpha Generation in Quantitative Trading.</span>"
+subtitle: "<span style='color: #069AF3;'>Principal AI Architect | Ground-up LLMs & Multi-Agent Systems | Driving novel alpha in quant finance & powering interdisciplinary human-AI ecosystem.</span>"
 
 profile:
   align: right
