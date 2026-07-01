@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I architect and deploy proprietary AI systems to develop **novel, uncorrelated alpha** from alternative data. My primary focus is quantitative finance, where for the past five years I have engineered a **complete trading ecosystem** to research and validate these strategies in live markets.
+I design **ground-up LLM architectures** and multi-agent systems for high-stakes, unstructured data. Bridging 30 years of systems engineering with deep AI research, I build **verification-first platforms** that I rigorously validate across diverse regulated domains, driving **novel and uncorrelated alpha** in live quantitative finance, and powering **interdisciplinary, human-AI creative ecosystems**.
 
 My approach integrates a unique combination of leadership, systems architecture, and deep AI expertise. My skills in cutting-edge AI are validated through ongoing consulting on **Large Language Model** (**LLM**) **and Knowledge Graph architecture** for major EU projects.
 
